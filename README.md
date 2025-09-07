@@ -20,7 +20,7 @@ API Style: RESTful
 
 Other: Image processing & ML model integration yolov.pt13 model (planned/ongoing)
 Running the Project
-clone the repo
+clone the repo  https://github.com/emer-tusiime/Whitefly_Detection.git
 cd whitefly-detection
 
 run the client (React)
